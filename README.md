@@ -15,7 +15,7 @@ Allows you to use CS-Cart with flutterwave's Rave. Accept Payments worldwide int
 
 > Step 1
 
-1. Download this repositry.
+1. Download this repository.
 2. There is an sql-dump file which needs to be run in your database (rave_installation.sql), run this with phpMyAdmin or SQL console.
 3. Upload [rave.php](app/payments) into `app/payments` in your CS-Cart installation
 4. Upload [rave.tpl](design/backend/templates/views/payments/components/cc_processors) into `design/backend/templates/views/payments/components/cc_processors`  in your CS-Cart installation
